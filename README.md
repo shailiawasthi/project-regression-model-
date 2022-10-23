@@ -14,9 +14,12 @@ You work for Motor Trend, a magazine about the automobile industry. Looking at a
 
 Take the mtcars data set and write up an analysis to answer their question using regression models and exploratory data analyses.  
 
-Your report must include   
+My report includes  
 
-    Written as a PDF printout of a compiled (using knitr) R markdown document.  
-    Brief. Roughly the equivalent of 2 pages or less for the main text. Supporting figures in an appendix can be  included up to 5 total pages including the 2 for the main report. The appendix can only include figures.  
-    Include a first paragraph executive summary.  
+ 1. PDF printout (using knitr) of the R markdown document.
+2. Brief with 2 pages for the main text. 
+3. Supporting figures in an appendix - around 5 total pages 
+including the 2 for the main report. appendix includes figures.  
+    
+Also added is a first paragraph executive summary.  
 
